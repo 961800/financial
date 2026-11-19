@@ -1,0 +1,6 @@
+{
+  "name": "Bank Marketing Campaign Analysis",
+  "description": "End-to-end banking campaign analytics, exploratory visualization, machine learning prediction (Logistic Regression, Decision Tree, Random Forest), and downloadable academic reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
